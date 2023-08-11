@@ -1,7 +1,5 @@
-<<<<<<< HEAD
+
 Kevin Leandro Ramos Luna
 20
 Aprender adecuadamente la programación orientada a objetos
-=======
 ahora si se puede realizar el commit porque la carpeta ya no está vacía
->>>>>>> 47bc05d82920cf66b6256834e09455b560fdf5ac
