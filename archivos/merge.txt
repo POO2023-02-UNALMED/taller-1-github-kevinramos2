@@ -1,0 +1,1 @@
+Ahora si se puede subir el commit porque la carpeta ya no está vacía
