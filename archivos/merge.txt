@@ -1,7 +1,3 @@
-<<<<<<< HEAD
 Kevin Leandro Ramos Luna
 20
-Aprender adecuadamente la programación orientada a objetos
-=======
-Ahora si se puede subir el commit porque la carpeta ya no está vacía
->>>>>>> b8b2420bc3349961d328ed2b53fb7ea87925f516
+Quiero aprender adecuadamente la programación orientada a objetos
