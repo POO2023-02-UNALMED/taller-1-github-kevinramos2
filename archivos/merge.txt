@@ -1,3 +1,8 @@
+
 Kevin Leandro Ramos Luna
 20
 Quiero aprender adecuadamente la programación orientada a objetos
+
+ahora funciona porque la carpeta ya no está vacía
+
+respuesta punto 14: Es importante tener cuidado en este aspecto porque genera un conflicto al momento de intentar subir el commit a github
